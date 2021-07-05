@@ -6,6 +6,7 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
+| 2021年7月5日 下午2:32 | 67 |
 | 2021年7月5日 下午2:26 | 64 |
 | 2021年7月5日 下午2:19 | 64 |
 | 2021年7月5日 下午2:16 | 68 |
@@ -15,7 +16,6 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 | 2021年7月5日 下午1:56 | 70 |
 | 2021年7月5日 下午1:48 | 68 |
 | 2021年7月5日 下午1:44 | 69 |
-| 2021年7月5日 下午1:39 | 70 |
 
 <!--END_SECTION:my_heart_rate-->
 
